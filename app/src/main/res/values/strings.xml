@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quest3</string>
+    <string-array name="priority">
+        <item>Низкий</item>
+        <item>Средний</item>
+        <item>Высокий</item>
+    </string-array>
+
+</resources>
